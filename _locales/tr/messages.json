@@ -1,0 +1,80 @@
+{
+	"activityDetails": {
+		"message": "İsteğe Bağlı: Detaylar (Örn. 5v5 Ölüm maçı (deathmatch))"
+	},
+	"activitySource": {
+		"message": "şunun üzerinde %"
+	},
+	"activityState": {
+		"message": "İsteğe bağlı: Durum (Örn: Oyunda)"
+	},
+	"activityStreamURL": {
+		"message": "Yayın Bağlantısı"
+	},
+	"activityTypeListening": {
+		"message": "Dinliyor"
+	},
+	"activityTypePlaying": {
+		"message": "Oynuyor"
+	},
+	"activityTypeStreaming": {
+		"message": "Yayında"
+	},
+	"activityTypeWatching": {
+		"message": "İzliyor"
+	},
+	"activityTypeCompetingIn": {
+		"message": "Rekabet içinde!"
+	},
+	"activityTypeCustomStatus": {
+		"message": "Özel Durum"
+	},
+	"activityUpdate": {
+		"message": "Set Discord Activity"
+	},
+	"appDesc": {
+		"message": "Set \"Playing\", \"Streaming\", \"Listening to\" & \"Watching\" in Discord to whatever you want."
+	},
+	"appName": {
+		"message": "Set Discord Activity"
+	},
+	"hintTwitchOnly": {
+		"message": "The stream link must start with https://twitch.tv/"
+	},
+	"loading": {
+		"message": "Set Discord Activity yükleniyor..."
+	},
+	"noTabHelp1": {
+		"message": "Eğer bir sekme zaten açıksa, yenileyin. Eğer değilse, basitçe "
+	},
+	"noTabHelp2": {
+		"message": "bir tane açın"
+	},
+	"noTabHelp3": {
+		"message": "."
+	},
+	"noTabPrefix": {
+		"message": "Bir sekme "
+	},
+	"noTabSuffix": {
+		"message": " algılayamadım."
+	},
+	"source": {
+		"message": "Kaynak:"
+	},
+	"sourceAutoMusic": {
+		"message": "Your Discord Activity will be the name + author of the song you're listening to or empty if you're not listening to a song."
+	},
+	"sourceAutoPlex": {
+		"message": "Your Discord Activity will be the name of the episode, movie, or song you're watching or listening to or empty if not applicable."
+	},
+	"sourceAutoVideo": {
+		"message": "Your Discord Activity will be the title of the video you're watching or empty if you're not watching a video."
+	},
+	"sourceOff": {
+		"message": "Kapalı"
+	},
+	"sourceCustom": {
+		"message": "Özel"
+	}
+}
