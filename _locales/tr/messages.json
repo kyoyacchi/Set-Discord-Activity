@@ -3,7 +3,7 @@
 		"message": "İsteğe Bağlı: Detaylar (Örn. 5v5 Ölüm maçı (deathmatch))"
 	},
 	"activitySource": {
-		"message": "şunun üzerinde %"
+		"message": "% üzerinde"
 	},
 	"activityState": {
 		"message": "İsteğe bağlı: Durum (Örn: Oyunda)"
@@ -66,10 +66,10 @@
 		"message": "Discord aktiviteniz dinlediğiniz şarkının ad ve yazarını gösterecek, eğer şarkı dinlemiyorsanız boş gözükür."
 	},
 	"sourceAutoPlex": {
-		"message": "Your Discord Activity will be the name of the episode, movie, or song you're watching or listening to or empty if not applicable."
+		"message": "Discord aktiviteniz bölümün adı, filmi, veya izlediğiniz ya da dinlediğiniz şarkı olacak, uygulanamaz ise boş bırakılır."
 	},
 	"sourceAutoVideo": {
-		"message": "Your Discord Activity will be the title of the video you're watching or empty if you're not watching a video."
+		"message": "Discord aktiviteniz izlediğiniz videonun başlığı olacak, izlemiyorsankz boş gözükür."
 	},
 	"sourceOff": {
 		"message": "Kapalı"
